@@ -1,6 +1,6 @@
 # Стихи и проза Симушиной Софьи
+- [# Рассказы](https://simushinas.github.io/lit/stories)
 - [Главная](https://simushinas.github.io/lit)
-# Рассказы
 - [Бракованная кошка](https://simushinas.github.io/lit/stories/1)
 #### Читайте также
 - [Мои творческие достижения](https://simushinas.github.io/lit/successes)
