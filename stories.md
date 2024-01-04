@@ -1,8 +1,7 @@
 # Стихи и проза Симушиной Софьи
 - [Главная](https://simushinas.github.io/lit)
 # Рассказы
-### Лохматый вор
-### Бракованная кошка
+- [Бракованная кошка](https://simushinas.github.io/lit/1)
 #### Читайте также
 - [Мои творческие достижения](https://simushinas.github.io/lit/successes)
 - [Новости](https://simushinas.github.io/lit/news)
