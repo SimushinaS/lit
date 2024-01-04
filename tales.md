@@ -1,7 +1,7 @@
 # Стихи и проза Симушиной Софьи
 ## Сказки
 - [Главная](https://simushinas.github.io/lit)
-## Читайте также
+### Читайте также
 - [Мои творческие достижения](https://simushinas.github.io/lit/successes)
 - [Новости](https://simushinas.github.io/lit/news)
 - [Стихотворения](https://simushinas.github.io/lit/poems)
